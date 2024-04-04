@@ -6,6 +6,9 @@ Sales Insights project! This project is a culmination of my SQL learning journey
 AtliQ Hardware is an imaginary company, and this project aims to provide valuable insights into its sales data. The project includes a series of SQL queries, stored procedures, and data analysis to answer various business questions and improve decision-making.
 
 # Screenshots
+![111](https://github.com/VijayKumarVuyyala/SQL-Project/assets/160216489/be08e439-329d-4327-8bc2-034a82b7787e)
+![222](https://github.com/VijayKumarVuyyala/SQL-Project/assets/160216489/5ca4166e-0528-4704-9311-4d06de549639)
+![333](https://github.com/VijayKumarVuyyala/SQL-Project/assets/160216489/e0c6ecc9-7db4-4e3b-b35b-fb011d22cfc3)
 
 
 # Learning journey
