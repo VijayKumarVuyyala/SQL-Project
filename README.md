@@ -42,6 +42,9 @@ powerful OVER clause, along with functions like ROW_NUMBER, RANK, and DENSE_RANK
 
 # Contact
 If you have any questions, feedback, or would like to collaborate on this project, feel free to contact me:
+
 Email: vuyyalavijayKumar@gmail.com
+
 LinkedIn: www.linkedin.com/in/vijay-kumar-vuyyala-1b459612a
+
 Happy querying and data analysis!
